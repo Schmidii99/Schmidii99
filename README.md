@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BoB](https://github.com/JojojoTV/BoB)
 
-- 🌱 I’m currently learning **C#, C++ with Arduino, SQLite, PHP**
+- 🌱 I’m currently learning **C#, C++ with Arduino, SQLite, PHP and JavaScript**
 
 - 📫 How to reach me **Mail@FlorianSchmid.me**
 
