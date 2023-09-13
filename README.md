@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Florian Schmid</h1>
 <h3 align="center">A passionate developer and student from germany.</h3>
 
-- 🔭 I’m currently working on improving my C# and .NET MAUI skills.
+- 🔭 I’m currently working on improving my C# and Python skills.
 
-- 🌱 I’m currently learning **C#, .NET Maui, SQLite, PHP and JavaScript**
+- 🌱 I’m currently learning **C#, Python, SQLite, PHP and JavaScript**
 
-- 💡 I am interested in many modern topics such as neural networks, encryption, unity3D, working with databases, bot development (ex. discord), Ai (Dalle 2, Midjourney, ChatGPT, Adobe enhance, ...) as well es security topics like malware, spyware, trojans and how to prevent being hacked.
+- 💡 I am interested in many modern topics such as neural networks, encryption, unity3D, working with databases, bot development (ex. discord or telegram), Ai (Dalle 2, Midjourney, ChatGPT, Adobe enhance, ...) as well es security topics like malware, spyware, trojans and how to prevent being hacked.
 
 - 📫 How to reach me **Mail@FlorianSchmid.me**
 
