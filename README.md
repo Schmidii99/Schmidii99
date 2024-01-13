@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on improving my C# and Python skills.
 
-- 🌱 I’m currently learning **Electron, Nodejs, Typescript, Python, JavaScript**
+- 🌱 I’m currently trying to build apps with **Tauri** utilizing **Rust** in combination with frontend technologies such as **svelte, sveltekit, tailwind and typescript**
 
 - 💡 I am interested in many modern topics such as neural networks, encryption, unity3D, working with databases, bot development (ex. discord or telegram), Ai (Dalle 2, Midjourney, ChatGPT, Adobe enhance, ...) as well es security topics like malware, spyware, trojans and how to prevent being hacked.
 
